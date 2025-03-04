@@ -2,8 +2,13 @@
   "schedules": [
     {
       "id": 1741114464718,
-      "name": "Jorge Junior",
+      "name": "Sebastião Junior",
       "when": "2025-03-04T20:00:00.000Z"
+    },
+    {
+      "id": 1741128761459,
+      "name": "Dayanna",
+      "when": "2025-03-05T00:00:00.000Z"
     }
   ]
 }
