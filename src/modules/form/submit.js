@@ -46,7 +46,8 @@ form.onsubmit = async (event) => {
       // console.log(when)
 
       // Gera um ID 
-      const id = new Date().getTime()
+      // const id = new Date().getTime() // com erro na hora de deletar o id
+      const id = new Date().getTime().toString() // consertado para poder deletar
       
       // console.log({
       //   id,
